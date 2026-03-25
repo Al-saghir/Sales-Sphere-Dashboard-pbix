@@ -31,9 +31,6 @@ Sales Sphere Dashboard is an interactive Power BI project designed to analyze sa
 - Reduced manual analysis effort
 - Enabled faster and more accurate business decisions
 
-## 📸 Dashboard Preview
-(Add screenshots here)
-
 ## 📌 Author
 Mahmoud Mohamed Al Saghir  
 Data Analyst & BI Specialist
