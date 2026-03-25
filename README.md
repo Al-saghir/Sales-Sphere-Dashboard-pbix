@@ -23,7 +23,6 @@ Sales Sphere Dashboard is an interactive Power BI project designed to analyze sa
 
 ## 📂 Project Structure
 - `Sales Dashboard.pbix` → Power BI file
-- `Dataset` → Source data used for analysis (if included)
 - `Screenshots` → Dashboard previews
 
 ## 🎯 Outcome
